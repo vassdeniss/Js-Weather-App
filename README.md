@@ -1,9 +1,7 @@
-🌤️ Weather App
-A simple and elegant weather app built using vanilla HTML, CSS, and JavaScript. This app fetches real-time weather data using the Open-Meteo API and displays it in a clean, user-friendly interface.
+# 🌤️ Weather App
+A s#mple and elegant weather app built using vanilla HTML, CSS, and JavaScript. This app fetches real-time weather data using the Open-Meteo API and displays it in a clean, user-friendly interface.
 
-Weather App Screenshot <!-- Add a screenshot of your app here -->
-
-🚀 Features
+# 🚀 Features
 Real-Time Weather Data: Get current weather information for any city.
 
 Weather Icons: Beautiful Font Awesome icons to represent weather conditions.
